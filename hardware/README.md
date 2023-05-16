@@ -13,6 +13,7 @@ Estimated time for this test: **30 - 45 mins**
 
 ### 1. Draw your system block to describe your hardware design
 Tool: https://www.drawio.com/
+
 Result: Export block diagram in PDF Format and put in this folder on your own branch
 
 ### 2. What are the electronic components you choose for your hardware design?
