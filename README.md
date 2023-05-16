@@ -3,9 +3,9 @@ Checkout the folders and finish the test
 
 ├── hardware
 │   ├── README.md
-├── software
+├── firmware_software
 │   ├── README.md
-├── README.md
+└── README.md
 
 ## How to submit the test
 
@@ -14,7 +14,7 @@ Follow the below steps to submit your test
  2. Push your answers / codes / files to remote repository
 
 
-** Attention **
+**Attention**
  - Do not push to **main** branch
 
 
