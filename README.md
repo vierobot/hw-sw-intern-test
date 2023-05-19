@@ -11,17 +11,6 @@ Checkout the folders and finish the test
 
 
 ## How to submit the test
-
-Follow the below steps to submit your test
- 1. Create your own branch (branch name as below)
- 2. Push your answers / codes / files to remote repository
-
-**Branch name format**
-```
-intern/your-name
-```
-
-**Attention**
- - Do not push to **main** branch
+Zip your repository and send an email with the zipped file to [info.vierobot@gmail.com](mailto:info.vierobot@gmail.com)
 
 

@@ -27,7 +27,6 @@ Describe how your device communicate with server
 
 ## III. How to submit the test?
 1. Export all your sketchs to PDF and put them in firmware folder
-2. Commit and push your answer
 
 ## Attention
   - Feel free to complete the test in your way.
